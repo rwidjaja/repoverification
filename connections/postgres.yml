@@ -1,0 +1,6 @@
+unique_name: postgres
+object_type: connection
+label: postgres
+as_connection: postgres
+database: atscale_data
+schema: atscale_data
